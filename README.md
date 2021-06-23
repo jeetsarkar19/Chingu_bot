@@ -11,3 +11,5 @@ A simple discord bot made using python.
 * Discord.py documentation 
 * Stackoverflow for doubt clearing and getting started
 * youtube video tutorials for reference 
+
+*NOTE:* .env files not uploaded.  
